@@ -1,2 +1,2 @@
-# Python-for-Data-Analytics
+# Python_for_Data_Analytics
 Python practice for DA
